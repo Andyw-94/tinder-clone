@@ -1,3 +1,11 @@
+# Tinder clone
+
+Deploy live with firebase!
+https://tinder-clone-e5c89.web.app/
+
+![React App and 3 more pages - Personal - Microsoft​ Edge 4_14_2021 10_28_24 PM (4)](https://user-images.githubusercontent.com/78442208/115129749-bb8a0a80-9f9d-11eb-8cb3-cf88272d5475.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
